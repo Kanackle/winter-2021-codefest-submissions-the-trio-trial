@@ -5,6 +5,7 @@
 ### Team members (format: GitHub username, last name, first name):
 SLuo490, Luo, Shi Tao </br>          
 Carlosjocaballero, Caballero, Carlos
+Kanackle, Somani, Kanak
 
 ### Group info (check all that apply - add an X in the [ ])
 - [ ] We are a Daedalus Google Mentorship group
