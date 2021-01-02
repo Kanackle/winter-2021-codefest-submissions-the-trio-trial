@@ -3,7 +3,7 @@
 # Team Info
 ### Team name: The Trio Trial
 ### Team members (format: GitHub username, last name, first name):
-SLuo490, Luo, Shi Tao </br>          
+SLuo490, Luo, Shi Tao\          
 Carlosjocaballero, Caballero, Carlos
 
 ### Group info (check all that apply - add an X in the [ ])
